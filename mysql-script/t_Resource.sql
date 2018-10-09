@@ -1,0 +1,12 @@
+/*创建 权限资源表 t_Resource*/
+
+DROP TABLE IF EXISTS t_Resource;
+
+CREATE TABLE IF NOT EXISTS t_Resource(
+  Id CHAR(36) PRIMARY KEY,
+  ResourceName VARCHAR(50) NOT NULL,
+  ResourceType TINYINT NOT NULL,
+  Path VARCHAR(200) NULL,
+  State CHAR(1) NOT NULL DEFAULT 1,
+  Description VARCHAR(500) NOT NULL
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;

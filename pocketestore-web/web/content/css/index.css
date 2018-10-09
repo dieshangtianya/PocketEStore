@@ -1,0 +1,18 @@
+/******* content部分 ***********/
+
+.content-section {
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.content-section .left-panel {
+    width: 200px;
+    min-height: 400px;
+    float: left;
+    box-shadow: 1px -5px 5px 1px #ecedf0;
+}
+
+.content-section .right-panel {
+    height: 500px;
+    overflow: hidden;
+}

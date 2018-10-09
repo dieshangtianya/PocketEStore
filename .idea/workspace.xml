@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="pocketestore-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9b96720-0b27-4833-814e-5a0c8cfd51a7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1913465480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="6" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.opened" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="11" />
+          <entry key="css" value="34" />
+          <entry key="ico" value="4" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="142" />
+          <entry key="js" value="8" />
+          <entry key="jsp" value="31" />
+          <entry key="png" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="sql" value="35" />
+          <entry key="t_CategoryGroup" value="1" />
+          <entry key="t_Category_Set_Link" value="2" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="11" />
+          <entry key="CSS" value="34" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="142" />
+          <entry key="JSP" value="31" />
+          <entry key="JavaScript" value="8" />
+          <entry key="Properties" value="2" />
+          <entry key="SQL" value="38" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="6837" />
+          <entry key="dummy" value="128" />
+          <entry key="java" value="17330" />
+          <entry key="js" value="1912" />
+          <entry key="jsp" value="5191" />
+          <entry key="properties" value="9" />
+          <entry key="sql" value="1553" />
+          <entry key="t_CategoryGroup" value="16" />
+          <entry key="t_Category_Set_Link" value="90" />
+          <entry key="xml" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="6838" />
+          <entry key="JAVA" value="17330" />
+          <entry key="JSP" value="5191" />
+          <entry key="JavaScript" value="1911" />
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Properties" value="9" />
+          <entry key="SQL" value="1659" />
+          <entry key="XML" value="115" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1073549862">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="2" />
+          <entry key="jsp" value="4" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="sql" value="12" />
+          <entry key="t_Category_Set_Link" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="SQL" value="13" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="jsp" value="94" />
+          <entry key="properties" value="37" />
+          <entry key="sql" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSP" value="94" />
+          <entry key="Properties" value="37" />
+          <entry key="SQL" value="32" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pocketestore-web/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql-script/t_Resource.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql-script/t_Role.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql-script/t_Role_Resource.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/config/StaticData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/dao/IAdminDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/dbInfo.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PocketEStore.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ExecuteNonQuery</find>
+      <find>Close</find>
+      <find>BuildCallabeStatement</find>
+      <find>null</find>
+      <find>clearfix</find>
+      <find>separator</find>
+      <find>i</find>
+      <find>error</find>
+      <find>wxf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>executeNonQuery</replace>
+      <replace>close</replace>
+      <replace>buildCallabeStatement</replace>
+      <replace>NULL</replace>
+      <replace>nav-separator</replace>
+      <replace>error-tip</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/pocketestore-web/lib</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/model/CategorySet.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/mockdata/CategorySetDataMock.java" />
+        <option value="$PROJECT_DIR$/mysql-script/t_CategorySet.sql" />
+        <option value="$PROJECT_DIR$/mysql-script/t_Category.sql" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/utils/IDataGroup.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/utils/DataGroupUtils.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/service/CategorySetService.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/service/CategoryService.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/master.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/common/category-banner.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/category-banner.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/index.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/header.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/footer.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/icon-moon.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/iconfont.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/utils/EncodeHelper.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/dao/ICustomerDao.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/model/Category.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/messages/ResponseMessage.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/AdminDaoImpl.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/CategorySetImpl.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/messages/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/jsonutils/JsonMessage.java" />
+        <option value="$PROJECT_DIR$/mysql-script/t_Customer.sql" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/model/Customer.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/jsonutils/JSONResponse.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/script/login.js" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/config/StaticData.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/common/header.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/common/footer.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/common/pure-footer.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/login.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/common-app.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/ServletBase.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/common.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/script/utils.js" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/RegisterServlet.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/css/register.css" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/content/script/register.js" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/utils/MySqlHelper.java" />
+        <option value="$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/CustomerDaoImpl.java" />
+        <option value="$PROJECT_DIR$/mysql-script/data/initialization.sql" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/login.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/register.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/index.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/forgotPassord.jsp" />
+        <option value="$PROJECT_DIR$/pocketestore-web/web/WEB-INF/dbInfo.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PocketEStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PocketEStore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PocketEStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PocketEStore" type="462c0819:PsiDirectoryNode" />
+              <item name="pocketestore-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PocketEStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PocketEStore" type="462c0819:PsiDirectoryNode" />
+              <item name="pocketestore-web" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PocketEStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PocketEStore" type="462c0819:PsiDirectoryNode" />
+              <item name="pocketestore-web" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/bianlifeng/projects/java/PocketEStore/pocketestore-web/src/pocketestore/servlets/LoginServlet.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538208694244" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15402299" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pocketestore-web/web" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/content" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/WEB-INF/content/images" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/WEB-INF/content" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/content/lib/bootstrap" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/content/images" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/src/pocketestore" />
+      <recent name="$PROJECT_DIR$/pocketestore-web/web/content/icon-font" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat9.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="pocketestore-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_PocketEStore_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50261" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="pocketestore-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b96720-0b27-4833-814e-5a0c8cfd51a7" name="Default Changelist" comment="" />
+      <created>1536159703615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536159703615</updated>
+      <workItem from="1536159705058" duration="7386000" />
+      <workItem from="1536196761242" duration="5502000" />
+      <workItem from="1536250233668" duration="3647000" />
+      <workItem from="1536331822987" duration="2182000" />
+      <workItem from="1536593751928" duration="1552000" />
+      <workItem from="1536629728221" duration="1828000" />
+      <workItem from="1536677555224" duration="3548000" />
+      <workItem from="1536765825677" duration="3325000" />
+      <workItem from="1536851096325" duration="2803000" />
+      <workItem from="1536937052132" duration="4895000" />
+      <workItem from="1537023115208" duration="5488000" />
+      <workItem from="1537369018066" duration="7120000" />
+      <workItem from="1537420494318" duration="892000" />
+      <workItem from="1537439434477" duration="1352000" />
+      <workItem from="1537446017165" duration="607000" />
+      <workItem from="1537446630972" duration="14000" />
+      <workItem from="1537451349330" duration="10028000" />
+      <workItem from="1537498236743" duration="6653000" />
+      <workItem from="1537520605133" duration="3026000" />
+      <workItem from="1537540208751" duration="4404000" />
+      <workItem from="1537582954785" duration="7607000" />
+      <workItem from="1537713278581" duration="6412000" />
+      <workItem from="1537780327704" duration="6243000" />
+      <workItem from="1537839730472" duration="12088000" />
+      <workItem from="1537884011008" duration="7713000" />
+      <workItem from="1537927482493" duration="1010000" />
+      <workItem from="1537968460946" duration="8663000" />
+      <workItem from="1538012759651" duration="15429000" />
+      <workItem from="1538047904352" duration="2304000" />
+      <workItem from="1538059991656" duration="6346000" />
+      <workItem from="1538098576632" duration="7950000" />
+      <workItem from="1538151338427" duration="4091000" />
+      <workItem from="1538185788014" duration="7047000" />
+      <workItem from="1538216397438" duration="222000" />
+      <workItem from="1538232112568" duration="11000" />
+      <workItem from="1538232486479" duration="101000" />
+      <workItem from="1538232863977" duration="2021000" />
+      <workItem from="1539066203175" duration="311000" />
+      <workItem from="1539066521789" duration="437000" />
+      <workItem from="1539066965941" duration="68000" />
+      <workItem from="1539067038568" duration="509000" />
+      <workItem from="1539067596429" duration="156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="172991000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66909975" visible="true" weight="0.32390952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.33090025" side_tool="true" visible="true" weight="0.32390952" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/RegisterServlet.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="new JSONObject()" language="JAVA" custom="net.sf.json.JSONObject" />
+        <watch expression="JSONObject." language="JAVA" custom="net.sf.json.JSONObject" />
+        <watch expression="JSONObject._fromString(&quot;dd&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>JSONObject._fromString(&quot;dd&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>net.sf.json.JSONObject</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new JSONObject()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>net.sf.json.JSONObject</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)mapItem.get(&quot;Sex&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>statement</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>statement.setObject(1,parameters[0]);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parameters[0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md.getColumnLabel(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>md.getColumnClassName(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>customerDao.GetAll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>commandSql</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conn</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>customerDao</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>constructor</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/jsonutils/JSONResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar!/com/mysql/cj/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17190">
+          <caret line="1264" selection-start-line="1264" selection-end-line="1264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Tomcat/lib/servlet-api.jar!/javax/servlet/http/HttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/category-panel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/common/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-186">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/common/pure-footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/common/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/common-app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/lib/bootstrap/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/ServletBase.java" />
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" selection-start-line="119" selection-end-line="122" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="16" selection-start-line="97" selection-start-column="3" selection-end-line="102" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="212" column="15" selection-start-line="212" selection-start-column="15" selection-end-line="212" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="44" selection-start-line="19" selection-start-column="8" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/BaseServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/script/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/script/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="method#CustomerService#0;class#CustomerService#0" />
+            <element signature="method#getAllCustomer#0;class#CustomerService#0" />
+            <element signature="method#getUserByNameAndPassword#0;class#CustomerService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/utils/MySqlHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/lib/mysql-connector-java-8.0.12.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10710">
+          <caret line="783" selection-start-line="783" selection-end-line="783" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/model/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/content/script/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/servlets/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/daoimpl/CustomerDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/data/initialization.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="72" column="122" selection-start-line="72" selection-start-column="122" selection-end-line="72" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/db.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_admin.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Admin_Role.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Category.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Category_Set_Link">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Customer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_CategorySet.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Product.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Product_Category.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/forgotPassord.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Resource.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Role.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql-script/t_Role_Resource.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/config/StaticData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/src/pocketestore/dao/IAdminDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PocketEStore.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketestore-web/web/WEB-INF/dbInfo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>pocketestore-web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15402299" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1150748" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PocketEStore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15402299" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang-2.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.15402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

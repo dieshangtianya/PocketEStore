@@ -1,0 +1,27 @@
+/******** footer 部分 ***********/
+
+.footer-section {
+    border-top: solid 1px #DCDCDC;
+    padding: 10px 0;
+}
+
+.footer-section .web-helper-content {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.footer-section .web-helper-content .helper-block {
+    width: 225px;
+    float: left;
+}
+
+.footer-section .footer-nav {
+    border-top: solid 1px #DCDCDC;
+    padding: 5px 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.footer-section .footer-nav .separator {
+    color: #8d8d8d;
+}
